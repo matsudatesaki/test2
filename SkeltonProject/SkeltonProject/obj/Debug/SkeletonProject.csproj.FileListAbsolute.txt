@@ -1,0 +1,12 @@
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.pdb
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Form1.resources
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Properties.Resources.resources
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csproj.GenerateResource.Cache
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csprojResolveAssemblyReference.cache
+C:\Users\matsudate_saki\Source\Repos\test2\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
+C:\Users\matsudate_saki\Source\Repos\test2\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
+C:\Users\matsudate_saki\Source\Repos\test2\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
